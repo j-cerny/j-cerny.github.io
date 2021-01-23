@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jakub Cerny</title>
+    <link>https://j-cerny.github.io/</link>
+    <description>Recent content on Jakub Cerny</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://j-cerny.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JC/About</title>
+      <link>https://j-cerny.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-cerny.github.io/about/</guid>
+      <description>About Me  I am a PhD Candidate at SCSE, Nanyang Technological University, Singapore. My research is funded by ASTAR SINGA scholarship.
+Research Interest Artificial intelligence, multi-agent systems, computational game theory, decision making, bounded rationality, robustness, optimization, cooperation
+Publications  Journal papers
+  The Dark Triad and Strategic Resource Control in a Competitive Computer Game (S. Curtis, A. Basak, J. Carre, B. Bošanský, J. Černý, N. Ben-Asher, M. Gutierrez, D.</description>
+    </item>
+    
+    <item>
+      <title>JC/Contact</title>
+      <link>https://j-cerny.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-cerny.github.io/contact/</guid>
+      <description> Email: [&amp;laquo;mylastname&amp;raquo;@disroot.org]   Mailing Address  NTU, N4-B1A-02
+Nanyang Avenue
+Singapore 639798
+ </description>
+    </item>
+    
+  </channel>
+</rss>
