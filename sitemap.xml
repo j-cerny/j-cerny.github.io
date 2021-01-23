@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://j-cerny.github.io/categories/</loc>
+    <loc>https://j-cerny.github.io/about/</loc>
   </url>
   
   <url>
@@ -11,15 +11,7 @@
   </url>
   
   <url>
-    <loc>https://j-cerny.github.io/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://j-cerny.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://j-cerny.github.io/tags/</loc>
   </url>
   
 </urlset>
