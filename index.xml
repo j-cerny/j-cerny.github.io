@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JC/About on Jakub Cerny</title>
+    <title>JC/About on Jakub Černý</title>
     <link>https://j-cerny.github.io/</link>
-    <description>Recent content in JC/About on Jakub Cerny</description>
+    <description>Recent content in JC/About on Jakub Černý</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://j-cerny.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,8 +13,9 @@
       
       <guid>https://j-cerny.github.io/about/</guid>
       <description>About Me  I am a PhD Candidate at SCSE, Nanyang Technological University, Singapore. My research is funded by ASTAR SINGA scholarship.
-Research Interests Artificial intelligence, multi-agent systems, computational game theory, decision making, bounded rationality, robustness, optimization, cooperation
-Education  MSc summa cum laude in Artificial Intelligence (major) and Robotics (minor) at FEE, CTU in Prague MSc in Discrete Models and Algorithms at Department of Applied Mathematics, FMP, Charles University  Publications  Journal papers</description>
+My name is pronounced as Yakub Chernee.
+Research Interests Artificial intelligence, multi-agent systems, computational game theory, decision making, bounded rationality, robustness, optimization, cooperation.
+Education  MSc (Hons) in Artificial Intelligence (minor in Robotics) at Czech Technical University MSc in Discrete Models and Algorithms at Charles University  Publications My Erdős number is 4.</description>
     </item>
     
     <item>
