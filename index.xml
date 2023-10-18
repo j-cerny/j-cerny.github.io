@@ -21,16 +21,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://j-cerny.github.io/biblio/</guid>
-      <description>ol { list-style-type: lower-alpha; }  -- working papers   A Unified Perspective on Deep Equilibrium Finding.
+      <description>working papers A Unified Perspective on Deep Equilibrium Finding.
 X. Wang, J. Černý, S. Li, C. Yang, Z. Yin, H. Chan and B. An.
 pdf.
-  Offline Equilibrium Finding.
+Offline Equilibrium Finding.
 S. Li, X. Wang, J. Černý, Y. Zhang, H. Chan and B. An.
 pdf.
-  Critical Goods Distribution System.
+Critical Goods Distribution System.
 D. Sychrovský, A. Jedličková, J. Černý and M. Loebl.
 pdf.
-  A Generalist Pursuer for Pursuit-Evasion Problems.</description>
+A Generalist Pursuer for Pursuit-Evasion Problems.
+P. Li, S. Li, X. Wang, J. Černý, Y.</description>
     </item>
     
     <item>
@@ -39,11 +40,10 @@ pdf.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://j-cerny.github.io/contact/</guid>
-      <description>-- -- -- 
-I pronounce my name as [yakub chernee].
+      <description>I pronounce my name as [yakub chernee].
 In case you&amp;rsquo;d like to chat about my work or potential collaboration, please reach out!
 My email is jakub at cernyjakub dot com
- This website&amp;rsquo;s color scheme is inspired by Silene coronaria.</description>
+This website&amp;rsquo;s color scheme is inspired by Silene coronaria.</description>
     </item>
     
   </channel>
